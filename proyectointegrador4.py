@@ -1,10 +1,10 @@
 
 # Proyecto Integrador parte 4
 
-#1. Implementar una función que reciba el mapa de un laberinto en forma de cadena
+# 1. Implementar una función que reciba el mapa de un laberinto en forma de cadena
 # y lo convierta a matriz de caracteres
-#2. Escribir una función que limpie la pantalla y muestre la matriz (recibe el mapa en forma de matriz)
-#3. Implementar el main loop en una función (recibe el mapa en forma de matriz)
+# 2. Escribir una función que limpie la pantalla y muestre la matriz (recibe el mapa en forma de matriz)
+# 3. Implementar el main loop en una función (recibe el mapa en forma de matriz).
 
 
 import os
