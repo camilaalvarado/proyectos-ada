@@ -42,7 +42,7 @@ class Juego(BaseModel):
                 py -= 1  # Flecha izquierda
             elif tecla == key.RIGHT and py < len(self.mapa[0]) - 1 and self.mapa[px][py + 1] != '#':
                 py += 1  # Flecha derecha
-        print ("")
+        print ("Has llegado a la meta !!Ganaste!!")
 class JuegoArchivo():
     def __init__(self):
         laberinto = self.leer_archivo()
